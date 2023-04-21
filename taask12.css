@@ -1,0 +1,57 @@
+.do{
+    background-color: aqua;
+    border-radius:10px;
+    width:40vw;
+    height:30vh;
+    text-align: center;
+   
+    
+}
+.plan{
+    background-color: rgb(0, 255, 38);
+    border-radius:10px;
+    width:40vw;
+    height:30vh;
+    text-align: center;
+    
+
+}
+.delegate{
+    background-color: rgb(243, 117, 26);
+    border-radius:10px;
+    width:40vw;
+    height:30vh;
+    text-align: center;
+   
+}
+.eliminate{
+    background-color: rgb(247, 59, 184);
+    border-radius:10px;
+    width:40vw;
+    height:30vh;
+    text-align: center;
+    
+}
+.urgent{
+    background-color:gray;
+    border-radius:5px;
+    width:40vw;
+    height:5vh;
+    text-align: center;
+    
+}
+.not urgent{
+    background-color: gray;
+    border-radius:10px;
+    width:40vw;
+    height:30vh;
+    text-align: center;
+}
+.important{
+    background-color: gray;
+    border-radius:5px;
+    width:40vw;
+    height:5vh;
+    text-align: center;
+    transform: rotate(-90deg);
+}
